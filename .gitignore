@@ -77,6 +77,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 Untitled-1.ipynb
+proj_1_start_using1.ipynb
+proj_1_start_using2.ipynb
+proj_1_start_using3.ipynb
+proj_1_start_using_D.ipynb
 
 # IPython
 profile_default/
